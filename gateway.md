@@ -14,8 +14,8 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 | [SEQ3000](#seq3000-employee-file-maintenance) | COBOL | CIS352 Intro to Enterprise Computing |
 | [RPT5000](#rpt5000-sales-report-program) | COBOL | CIS352 Intro to Enterprise Computing |
 | [RPT6000](#rpt6000-advanced-sales-report) | COBOL | CIS352 Intro to Enterprise Computing |
-| [Bank App](#bank-app) | Java | Software Engineering / Programming |
-| [Ultimate Calculator](#ultimate-calculator-app) | Java | Software Engineering / Programming |
+| [Bank App](#bank-app) | Java | Intro to Programming |
+| [Ultimate Calculator](#ultimate-calculator-app) | Java | Intro to Programming |
 
 ---
 
