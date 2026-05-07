@@ -1,4 +1,4 @@
-# 🎓 Developer Portfolio: Gateway
+# 🎓 Portfolio: Gateway
 
 Welcome to my GitHub portfolio repository! I am currently a Computer Information Technology student at Wayne State College. This gateway serves as a central directory to navigate my coursework, highlighting my progress in enterprise mainframe computing and object-oriented software development.
 
