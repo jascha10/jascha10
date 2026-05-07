@@ -67,7 +67,7 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 * **Thumbnail Screenshot:** ![SEQ3000](assets/seq3000-thumb.png)
-* **Repository Link:** 🔗 [View SEQ3000 Repository]((#https://github.com/jascha10/SEQ3000))
+* **Repository Link:** 🔗 [View SEQ3000 Repository](https://github.com/jascha10/SEQ3000)
 
 [⬆ Back to TOC](#-table-of-contents)
 
