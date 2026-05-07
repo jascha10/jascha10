@@ -53,7 +53,7 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 * **Key Learning Concepts:** Zero-value handling, file-control configuration, and report engineering.
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
-* **Thumbnail Screenshot:** ![RPT2000](assets/output.png)
+* **Thumbnail Screenshot:** ![RPT2000](assets/rpt2000.png)
 * **Repository Link:** 🔗 [View RPT2000 Repository](#)
 
 [⬆ Back to TOC](#-table-of-contents)
