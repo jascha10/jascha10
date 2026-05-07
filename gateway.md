@@ -54,7 +54,7 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 * **Thumbnail Screenshot:** ![RPT2000](assets/rpt2000.png)
-* **Repository Link:** 🔗 [View RPT2000 Repository](#)
+* **Repository Link:** 🔗 [View RPT2000 Repository](https://github.com/jascha10/RPT2000)
 
 [⬆ Back to TOC](#-table-of-contents)
 
