@@ -79,7 +79,7 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 * **Key Learning Concepts:** Control break logic and multi-level data aggregation.
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
-* **Thumbnail Screenshot:** ![RPT5000](assets/output.png)
+* **Thumbnail Screenshot:** ![RPT5000](assets/rpt5000.png)
 * **Repository Link:** 🔗 [View RPT5000 Repository](#)
 
 [⬆ Back to TOC](#-table-of-contents)
