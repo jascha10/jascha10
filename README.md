@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning how to code java <br>🎯 Goals: My current goal is to become a networking and cybersecurity major.<br>🎲 Fun fact: I have 2 cats</p>
+<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning how to code in Cobol <br>🎯 Goals: My current goal is to become a networking and cybersecurity major.<br>🎲 Fun fact: I have 2 cats</p>
 
 ###
 
