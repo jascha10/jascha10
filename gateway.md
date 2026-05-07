@@ -41,7 +41,7 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 * **Thumbnail Screenshot:** ![CALC2000](Screenshots/Screenshot%202026-01-29%20130847.png)
-* **Repository Link:** 🔗 [View CALC2000 Repository](#)
+* **Repository Link:** 🔗 [View CALC2000 Repository](https://github.com/gawdilley/COBOL-Chapter-1-Assignment)
 
 [⬆ Back to TOC](#-table-of-contents)
 
