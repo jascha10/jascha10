@@ -1,6 +1,6 @@
 # 🎓 Developer Portfolio: Gateway
 
-Welcome to my GitHub portfolio repository! I am currently a Computer Information Technology student at Wayne State College. This gateway serves as a central directory to navigate my coursework, showcasing my development in enterprise computing and structured programming.
+Welcome to my GitHub portfolio repository! I am currently a Computer Information Technology student at Wayne State College. This gateway serves as a central directory to navigate my coursework, highlighting my progress in enterprise mainframe computing and object-oriented software development.
 
 ---
 
@@ -14,6 +14,8 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 | [SEQ3000](#seq3000-employee-file-maintenance) | COBOL | CIS352 Intro to Enterprise Computing |
 | [RPT5000](#rpt5000-sales-report-program) | COBOL | CIS352 Intro to Enterprise Computing |
 | [RPT6000](#rpt6000-advanced-sales-report) | COBOL | CIS352 Intro to Enterprise Computing |
+| [Bank App](#bank-app) | Java | Software Engineering / Programming |
+| [Ultimate Calculator](#ultimate-calculator-app) | Java | Software Engineering / Programming |
 
 ---
 
@@ -22,7 +24,7 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 ### UTIL2000: Utility Billing Engine
 * **Short Summary:** A mainframe utility billing engine that calculates invoices using a three-tier progressive rate scale.
 * **Technologies Used:** COBOL, JCL, z/OS Mainframe Environment.
-* **Key Learning Concepts:** Progressive calculation logic and batch processing.
+* **Key Learning Concepts:** Progressive calculation logic and batch report formatting.
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 * **Thumbnail Screenshot:** ![UTIL2000](assets/util2000-thumb.png)
@@ -92,5 +94,31 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 * **Thumbnail Screenshot:** ![RPT6000](assets/output.png)
 * **Repository Link:** 🔗 [View RPT6000 Repository](#)
+
+[⬆ Back to TOC](#-table-of-contents)
+
+---
+
+### Bank App
+* **Short Summary:** A banking interface application developed to manage user accounts, including withdrawals, deposits, and unique ID generation.
+* **Technologies Used:** Java, IntelliJ IDEA.
+* **Key Learning Concepts:** Object-Oriented Programming (OOP) principles, method implementation, and unique ID generation logic.
+* **Project Status:** ✅ Completed
+* **Course / Self-Project:** Academic Software Engineering Project
+* **Thumbnail Screenshot:** ![Bank App Demo](https://github.com/jascha10/BankApp/blob/master/Assets/bankapp%20(3).gif)
+* **Repository Link:** 🔗 [View Bank App Repository](https://github.com/jascha10/BankApp)
+
+[⬆ Back to TOC](#-table-of-contents)
+
+---
+
+### Ultimate Calculator App
+* **Short Summary:** A feature-rich calculator that handles basic arithmetic as well as advanced functions like precision control and memory storage.
+* **Technologies Used:** Java, IntelliJ IDEA.
+* **Key Learning Concepts:** Advanced mathematical functions, precision management, and unit testing via testbenches.
+* **Project Status:** ✅ Completed
+* **Course / Self-Project:** Academic Software Engineering Project
+* **Thumbnail Screenshot:** ![Calculator Demo](assets/calculator-thumb.png)
+* **Repository Link:** 🔗 [View Calculator Repository](https://github.com/jascha10/Calculator-App)
 
 [⬆ Back to TOC](#-table-of-contents)
