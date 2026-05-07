@@ -80,7 +80,7 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 * **Thumbnail Screenshot:** ![RPT5000](assets/rpt5000.png)
-* **Repository Link:** 🔗 [View RPT5000 Repository](#)
+* **Repository Link:** 🔗 [View RPT5000 Repository](https://github.com/Haschm05/COBOL_RPT5000)
 
 [⬆ Back to TOC](#-table-of-contents)
 
@@ -93,7 +93,7 @@ Welcome to my GitHub portfolio repository! I am currently a Computer Information
 * **Project Status:** ✅ Completed
 * **Course / Self-Project:** CIS352 Introduction to Enterprise Computing
 * **Thumbnail Screenshot:** ![RPT6000](assets/output.png)
-* **Repository Link:** 🔗 [View RPT6000 Repository](#)
+* **Repository Link:** 🔗 [View RPT6000 Repository](https://github.com/jascha10/RPT6000)
 
 [⬆ Back to TOC](#-table-of-contents)
 
